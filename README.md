@@ -1,3 +1,7 @@
+##Explanation
+
+Here you will find the code I used to create the four images (which are also included) described in the instructions for the Course Project 1 of the Exploratory Data Analysis course. The instructions are described below.
+
 ## Introduction
 
 This assignment uses data from
